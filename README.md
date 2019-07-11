@@ -8,6 +8,6 @@ The concept and work have been published in several scientific conferences. One 
 ICERI 2018 : https://www.iutbayonne.univ-pau.fr/~luthon/iceri2018.pdf
 
 
-The Laborem software part is also available on Github:
+The Laborem software is also available on Github:
 https://github.com/clavay/PyScada-Laborem
 
